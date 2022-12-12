@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+
+html{
+    background-image: url(https://blog.1001salles.com/wp-content/uploads/2015/04/preparer-sa-salle.jpg);
+    background-size: 100%;
+}
+
+
+h1{
+    color: rgb(40, 231, 19);
+    font-size: 3rem;
+}
