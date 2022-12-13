@@ -9,14 +9,15 @@ require_once("Connect.php");
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css" media="screen" type="text/css"/>
-    <title>Location Salles</title>
+    <title>Halls For All</title>
 </head>
 
 <body>
     <div>
-        <h1>Bienvenue sur ce site de reservation de salles</h1>
-        <p>
+        <h1>Reservez votre salle Maintenant avec <strong>H.F.A</strong></h1>
 
+        <p>
+            <strong>HFA prestataire de location de salles depuis 1985, tout droits réservé</strong>
         </p>
     </div>    
 </body>
